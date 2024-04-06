@@ -1,0 +1,101 @@
+[
+    {
+        "company": "成都航空",
+        "airline_code": "EU2711",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "08:00",
+        "arrive_time": "09:35",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA8208",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "10:10",
+        "arrive_time": "11:40",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3448",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "11:35",
+        "arrive_time": "13:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8985",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "16:25",
+        "arrive_time": "18:05",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2652",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "16:35",
+        "arrive_time": "18:15",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH4587",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "19:10",
+        "arrive_time": "20:40",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "1256日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4587",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "19:10",
+        "arrive_time": "20:40",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "1256日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8448",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "20:15",
+        "arrive_time": "21:50",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3442",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "22:15",
+        "arrive_time": "23:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

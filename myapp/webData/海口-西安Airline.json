@@ -1,0 +1,46 @@
+[
+    {
+        "company": "海南航空",
+        "airline_code": "HU7267",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "西安咸阳国际机场",
+        "start_time": "07:55",
+        "arrive_time": "12:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "首都航空",
+        "airline_code": "JD5110",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "西安咸阳国际机场",
+        "start_time": "10:45",
+        "arrive_time": "13:35",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS6522",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "西安咸阳国际机场",
+        "start_time": "17:40",
+        "arrive_time": "21:40",
+        "mode": "190",
+        "airline_stop": "0",
+        "week": "23456"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8880",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "西安咸阳国际机场",
+        "start_time": "19:30",
+        "arrive_time": "23:30",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

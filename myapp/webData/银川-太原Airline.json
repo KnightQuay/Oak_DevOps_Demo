@@ -1,0 +1,13 @@
+[
+    {
+        "company": "幸福航空",
+        "airline_code": "JR1518",
+        "start_drome": "银川河东机场",
+        "arrive_drome": "太原武宿国际机场",
+        "start_time": "09:55",
+        "arrive_time": "12:25",
+        "mode": "MA6",
+        "airline_stop": "0",
+        "week": "23456"
+    }
+]

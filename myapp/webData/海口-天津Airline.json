@@ -1,0 +1,35 @@
+[
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8140",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "13:15",
+        "arrive_time": "18:15",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1618",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "16:15",
+        "arrive_time": "19:40",
+        "mode": "73L",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS7460",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "17:50",
+        "arrive_time": "22:40",
+        "mode": "190",
+        "airline_stop": "0",
+        "week": "246"
+    }
+]

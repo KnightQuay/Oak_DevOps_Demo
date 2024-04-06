@@ -1,0 +1,145 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3960",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "08:30",
+        "arrive_time": "10:40",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3389",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "09:25",
+        "arrive_time": "11:35",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1269",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "09:25",
+        "arrive_time": "11:35",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3392",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "11:10",
+        "arrive_time": "13:20",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1272",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "11:10",
+        "arrive_time": "13:20",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6631",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "13:15",
+        "arrive_time": "15:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ362",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "13:50",
+        "arrive_time": "16:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3394",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "16:10",
+        "arrive_time": "18:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7711",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "18:00",
+        "arrive_time": "20:15",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3396",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "18:05",
+        "arrive_time": "20:20",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9607",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "18:25",
+        "arrive_time": "20:40",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9789",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "21:05",
+        "arrive_time": "23:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3196",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "21:35",
+        "arrive_time": "23:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

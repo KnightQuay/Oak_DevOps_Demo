@@ -1,0 +1,90 @@
+[
+    {
+        "company": "奥凯航空",
+        "airline_code": "BK2889",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "南京禄口国际机场",
+        "start_time": "07:35",
+        "arrive_time": "08:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3985",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "南京禄口国际机场",
+        "start_time": "11:40",
+        "arrive_time": "12:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9204",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "南京禄口国际机场",
+        "start_time": "15:00",
+        "arrive_time": "16:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2706",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "南京禄口国际机场",
+        "start_time": "15:20",
+        "arrive_time": "16:30",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "成都航空",
+        "airline_code": "EU2754",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "南京禄口国际机场",
+        "start_time": "18:50",
+        "arrive_time": "20:05",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "祥鹏航空",
+        "airline_code": "8L9811",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "南京禄口国际机场",
+        "start_time": "19:00",
+        "arrive_time": "20:10",
+        "mode": "32D",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2716",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "南京禄口国际机场",
+        "start_time": "21:00",
+        "arrive_time": "22:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2890",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "南京禄口国际机场",
+        "start_time": "23:55",
+        "arrive_time": "01:40",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "246日"
+    }
+]

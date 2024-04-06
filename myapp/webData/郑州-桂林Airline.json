@@ -1,0 +1,46 @@
+[
+    {
+        "company": "天津航空",
+        "airline_code": "GS6611",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "桂林两江国际机场",
+        "start_time": "10:25",
+        "arrive_time": "12:20",
+        "mode": "190",
+        "airline_stop": "0",
+        "week": "123456"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7254",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "桂林两江国际机场",
+        "start_time": "17:00",
+        "arrive_time": "18:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4929",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "桂林两江国际机场",
+        "start_time": "17:15",
+        "arrive_time": "19:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "256"
+    },
+    {
+        "company": "首都航空",
+        "airline_code": "JD5599",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "桂林两江国际机场",
+        "start_time": "18:00",
+        "arrive_time": "19:55",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

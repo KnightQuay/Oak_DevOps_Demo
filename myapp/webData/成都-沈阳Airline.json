@@ -1,0 +1,90 @@
+[
+    {
+        "company": "成都航空",
+        "airline_code": "EU2755",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "07:20",
+        "arrive_time": "12:50",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6402",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "08:05",
+        "arrive_time": "12:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH4185",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "08:15",
+        "arrive_time": "11:20",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4185",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "08:15",
+        "arrive_time": "11:20",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6439",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "10:45",
+        "arrive_time": "15:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8969",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "12:50",
+        "arrive_time": "17:40",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6410",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "14:45",
+        "arrive_time": "19:15",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9410",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "17:05",
+        "arrive_time": "21:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

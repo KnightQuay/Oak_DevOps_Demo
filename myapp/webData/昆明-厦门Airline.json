@@ -1,0 +1,145 @@
+[
+    {
+        "company": "四川航空",
+        "airline_code": "3U8917",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "07:30",
+        "arrive_time": "09:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU8530",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "07:35",
+        "arrive_time": "09:50",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5322",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "07:35",
+        "arrive_time": "09:50",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8430",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "07:35",
+        "arrive_time": "09:50",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "成都航空",
+        "airline_code": "EU2721",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "09:30",
+        "arrive_time": "13:10",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4770",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "11:20",
+        "arrive_time": "13:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4770",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "11:20",
+        "arrive_time": "13:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8406",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "11:35",
+        "arrive_time": "14:00",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "昆明航空",
+        "airline_code": "KY8201",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "11:50",
+        "arrive_time": "15:30",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8418",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "15:50",
+        "arrive_time": "18:00",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "祥鹏航空",
+        "airline_code": "8L9875",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "15:55",
+        "arrive_time": "19:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "1346"
+    },
+    {
+        "company": "昆明航空",
+        "airline_code": "KY8215",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "18:00",
+        "arrive_time": "20:25",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5781",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "18:25",
+        "arrive_time": "20:40",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

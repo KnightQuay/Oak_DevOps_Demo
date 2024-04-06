@@ -1,0 +1,79 @@
+[
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9550",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "无锡苏南硕放国际机场",
+        "start_time": "09:50",
+        "arrive_time": "12:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9575",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "无锡苏南硕放国际机场",
+        "start_time": "13:00",
+        "arrive_time": "15:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3917",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "无锡苏南硕放国际机场",
+        "start_time": "15:55",
+        "arrive_time": "18:05",
+        "mode": "E90",
+        "airline_stop": "0",
+        "week": "123456"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9764",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "无锡苏南硕放国际机场",
+        "start_time": "17:15",
+        "arrive_time": "19:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2928",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "无锡苏南硕放国际机场",
+        "start_time": "17:30",
+        "arrive_time": "19:40",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9552",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "无锡苏南硕放国际机场",
+        "start_time": "21:15",
+        "arrive_time": "23:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2908",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "无锡苏南硕放国际机场",
+        "start_time": "23:00",
+        "arrive_time": "01:20",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

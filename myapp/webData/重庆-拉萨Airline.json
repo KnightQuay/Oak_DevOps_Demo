@@ -1,0 +1,145 @@
+[
+    {
+        "company": "西部航空",
+        "airline_code": "PN6271",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "07:05",
+        "arrive_time": "09:35",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8633",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "08:00",
+        "arrive_time": "10:25",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8411",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "10:40",
+        "arrive_time": "13:05",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "36"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8665",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "10:45",
+        "arrive_time": "13:10",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3183",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "11:30",
+        "arrive_time": "14:00",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3463",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "11:45",
+        "arrive_time": "14:20",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "西藏航空",
+        "airline_code": "TV9814",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "12:30",
+        "arrive_time": "14:55",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3960",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "12:30",
+        "arrive_time": "14:55",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4420",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "13:05",
+        "arrive_time": "15:40",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH4420",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "13:05",
+        "arrive_time": "15:40",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4420",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "13:05",
+        "arrive_time": "15:40",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "西藏航空",
+        "airline_code": "TV9802",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "17:45",
+        "arrive_time": "20:10",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3982",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "拉萨贡嘎国际机场",
+        "start_time": "17:45",
+        "arrive_time": "20:10",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

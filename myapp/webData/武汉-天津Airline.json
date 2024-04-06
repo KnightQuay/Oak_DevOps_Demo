@@ -1,0 +1,101 @@
+[
+    {
+        "company": "河北航空",
+        "airline_code": "NS8137",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "10:10",
+        "arrive_time": "11:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5095",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "10:10",
+        "arrive_time": "11:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8137",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "10:10",
+        "arrive_time": "11:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS6684",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "10:40",
+        "arrive_time": "12:30",
+        "mode": "E90",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3849",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "15:30",
+        "arrive_time": "17:20",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1707",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "15:30",
+        "arrive_time": "17:20",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2541",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "18:15",
+        "arrive_time": "20:00",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS6682",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "22:20",
+        "arrive_time": "00:10",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS6682",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "22:20",
+        "arrive_time": "00:10",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "1356日"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "company": "首都航空",
+        "airline_code": "JD5324",
+        "start_drome": "南昌昌北国际机场",
+        "arrive_drome": "海口美兰国际机场",
+        "start_time": "14:20",
+        "arrive_time": "16:15",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5345",
+        "start_drome": "南昌昌北国际机场",
+        "arrive_drome": "海口美兰国际机场",
+        "start_time": "21:00",
+        "arrive_time": "22:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7072",
+        "start_drome": "南昌昌北国际机场",
+        "arrive_drome": "海口美兰国际机场",
+        "start_time": "21:50",
+        "arrive_time": "23:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "136"
+    }
+]

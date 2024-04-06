@@ -1,0 +1,211 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3681",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "08:00",
+        "arrive_time": "10:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4161",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "08:00",
+        "arrive_time": "10:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH4161",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "08:00",
+        "arrive_time": "10:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4161",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "08:00",
+        "arrive_time": "10:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6187",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "11:05",
+        "arrive_time": "13:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC1462",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "11:40",
+        "arrive_time": "14:20",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1462",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "11:40",
+        "arrive_time": "14:20",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1462",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "11:40",
+        "arrive_time": "14:20",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7190",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "11:50",
+        "arrive_time": "14:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3687",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "15:10",
+        "arrive_time": "17:55",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "256"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4165",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "16:15",
+        "arrive_time": "19:15",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC1464",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:25",
+        "arrive_time": "22:25",
+        "mode": "73H",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC1464",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:25",
+        "arrive_time": "22:25",
+        "mode": "73H",
+        "airline_stop": "0",
+        "week": "1456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1464",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:25",
+        "arrive_time": "22:25",
+        "mode": "73H",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1464",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:25",
+        "arrive_time": "22:25",
+        "mode": "73H",
+        "airline_stop": "0",
+        "week": "1456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1464",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:25",
+        "arrive_time": "22:25",
+        "mode": "73H",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1464",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:25",
+        "arrive_time": "22:25",
+        "mode": "73H",
+        "airline_stop": "0",
+        "week": "1456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3653",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:30",
+        "arrive_time": "22:20",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6185",
+        "start_drome": "贵阳龙洞堡国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "21:15",
+        "arrive_time": "00:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "company": "东方航空",
+        "airline_code": "MU2701",
+        "start_drome": "南京禄口国际机场",
+        "arrive_drome": "青岛流亭国际机场",
+        "start_time": "07:35",
+        "arrive_time": "08:45",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2257",
+        "start_drome": "南京禄口国际机场",
+        "arrive_drome": "青岛流亭国际机场",
+        "start_time": "14:05",
+        "arrive_time": "15:10",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4696",
+        "start_drome": "南京禄口国际机场",
+        "arrive_drome": "青岛流亭国际机场",
+        "start_time": "16:45",
+        "arrive_time": "18:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4696",
+        "start_drome": "南京禄口国际机场",
+        "arrive_drome": "青岛流亭国际机场",
+        "start_time": "16:45",
+        "arrive_time": "18:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4730",
+        "start_drome": "南京禄口国际机场",
+        "arrive_drome": "青岛流亭国际机场",
+        "start_time": "22:50",
+        "arrive_time": "23:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4730",
+        "start_drome": "南京禄口国际机场",
+        "arrive_drome": "青岛流亭国际机场",
+        "start_time": "22:50",
+        "arrive_time": "23:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

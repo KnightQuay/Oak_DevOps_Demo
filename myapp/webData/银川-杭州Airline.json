@@ -1,0 +1,68 @@
+[
+    {
+        "company": "长龙航空",
+        "airline_code": "GJ8722",
+        "start_drome": "银川河东机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "11:25",
+        "arrive_time": "14:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1776",
+        "start_drome": "银川河东机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "12:00",
+        "arrive_time": "14:35",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5178",
+        "start_drome": "银川河东机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "12:50",
+        "arrive_time": "16:25",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "12456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8242",
+        "start_drome": "银川河东机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "12:50",
+        "arrive_time": "16:25",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8242",
+        "start_drome": "银川河东机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "12:50",
+        "arrive_time": "16:25",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "12456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2206",
+        "start_drome": "银川河东机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "15:40",
+        "arrive_time": "19:30",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "13456日"
+    }
+]

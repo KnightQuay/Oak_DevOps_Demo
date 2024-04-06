@@ -1,0 +1,134 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6175",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "07:50",
+        "arrive_time": "09:15",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1913",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "07:50",
+        "arrive_time": "09:15",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4639",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "09:45",
+        "arrive_time": "11:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4639",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "09:45",
+        "arrive_time": "11:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5299",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "10:30",
+        "arrive_time": "11:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8407",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "10:30",
+        "arrive_time": "11:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "西部航空",
+        "airline_code": "PN6220",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "13:25",
+        "arrive_time": "14:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8796",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "14:55",
+        "arrive_time": "16:25",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ8178",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "17:15",
+        "arrive_time": "18:40",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "重庆航空",
+        "airline_code": "OQ2378",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "17:15",
+        "arrive_time": "18:40",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5373",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "18:20",
+        "arrive_time": "19:40",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8483",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "18:20",
+        "arrive_time": "19:40",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

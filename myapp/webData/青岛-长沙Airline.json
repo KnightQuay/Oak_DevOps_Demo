@@ -1,0 +1,134 @@
+[
+    {
+        "company": "山东航空",
+        "airline_code": "SC4705",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "07:55",
+        "arrive_time": "11:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH3043",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "07:55",
+        "arrive_time": "11:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4705",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "07:55",
+        "arrive_time": "11:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3926",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "09:10",
+        "arrive_time": "13:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1782",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "09:10",
+        "arrive_time": "13:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "河北航空",
+        "airline_code": "NS8036",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "14:00",
+        "arrive_time": "16:05",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5012",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "14:00",
+        "arrive_time": "16:05",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8036",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "14:00",
+        "arrive_time": "16:05",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3984",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "15:50",
+        "arrive_time": "18:10",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC9588",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "19:45",
+        "arrive_time": "21:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9588",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "19:45",
+        "arrive_time": "21:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3689",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "19:45",
+        "arrive_time": "21:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

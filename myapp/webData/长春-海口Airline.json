@@ -1,0 +1,35 @@
+[
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9221",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "海口美兰国际机场",
+        "start_time": "08:45",
+        "arrive_time": "15:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7628",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "海口美兰国际机场",
+        "start_time": "15:15",
+        "arrive_time": "21:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "13456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6652",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "海口美兰国际机场",
+        "start_time": "16:25",
+        "arrive_time": "22:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

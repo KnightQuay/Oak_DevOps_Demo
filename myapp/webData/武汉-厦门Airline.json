@@ -1,0 +1,189 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3841",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "10:40",
+        "arrive_time": "12:10",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1701",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "10:40",
+        "arrive_time": "12:10",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6939",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "13:40",
+        "arrive_time": "14:55",
+        "mode": "757",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4561",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "13:40",
+        "arrive_time": "14:55",
+        "mode": "757",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4798",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "15:10",
+        "arrive_time": "16:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4798",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "15:10",
+        "arrive_time": "16:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5174",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "15:15",
+        "arrive_time": "16:30",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8238",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "15:15",
+        "arrive_time": "16:30",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5288",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "18:25",
+        "arrive_time": "19:45",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "12456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8388",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "18:25",
+        "arrive_time": "19:45",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "12456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2437",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "18:35",
+        "arrive_time": "19:50",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "1356"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC8227",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "19:45",
+        "arrive_time": "21:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "13456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH4947",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "19:45",
+        "arrive_time": "21:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "13456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA8227",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "19:45",
+        "arrive_time": "21:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "13456日"
+    },
+    {
+        "company": "首都航空",
+        "airline_code": "JD5340",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "19:50",
+        "arrive_time": "21:15",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5204",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "21:20",
+        "arrive_time": "22:40",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8276",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "21:20",
+        "arrive_time": "22:40",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

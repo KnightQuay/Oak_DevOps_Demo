@@ -1,0 +1,233 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6143",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "07:50",
+        "arrive_time": "09:40",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC1662",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "08:10",
+        "arrive_time": "09:55",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1662",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "08:10",
+        "arrive_time": "09:55",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1662",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "08:10",
+        "arrive_time": "09:55",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6145",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "08:40",
+        "arrive_time": "10:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1610",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "10:45",
+        "arrive_time": "12:30",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1610",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "10:45",
+        "arrive_time": "12:30",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6193",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "13:30",
+        "arrive_time": "15:25",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1650",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "15:00",
+        "arrive_time": "17:00",
+        "mode": "73H",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6149",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "15:30",
+        "arrive_time": "17:25",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7766",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "18:20",
+        "arrive_time": "20:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1630",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "18:50",
+        "arrive_time": "20:40",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "12356日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1630",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "18:50",
+        "arrive_time": "20:40",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "12356日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2069",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "18:55",
+        "arrive_time": "20:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU3050",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:25",
+        "arrive_time": "21:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6141",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:25",
+        "arrive_time": "21:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1881",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "19:25",
+        "arrive_time": "21:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6179",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "20:20",
+        "arrive_time": "22:05",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC1648",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "21:30",
+        "arrive_time": "23:15",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1648",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "21:30",
+        "arrive_time": "23:15",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1648",
+        "start_drome": "长春龙嘉国际机场",
+        "arrive_drome": "北京首都国际机场",
+        "start_time": "21:30",
+        "arrive_time": "23:15",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

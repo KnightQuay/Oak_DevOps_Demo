@@ -1,0 +1,112 @@
+[
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8401",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "09:10",
+        "arrive_time": "10:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8998",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "14:05",
+        "arrive_time": "15:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8453",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "17:25",
+        "arrive_time": "19:05",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4372",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "19:20",
+        "arrive_time": "21:05",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH4372",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "19:20",
+        "arrive_time": "21:05",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4372",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "19:20",
+        "arrive_time": "21:05",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3461",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "20:20",
+        "arrive_time": "22:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1341",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "20:20",
+        "arrive_time": "22:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "成都航空",
+        "airline_code": "EU2730",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "22:10",
+        "arrive_time": "23:55",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "成都航空",
+        "airline_code": "EU2206",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "成都双流国际机场",
+        "start_time": "22:35",
+        "arrive_time": "00:25",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

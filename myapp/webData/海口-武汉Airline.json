@@ -1,0 +1,68 @@
+[
+    {
+        "company": "海南航空",
+        "airline_code": "HU7841",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "07:35",
+        "arrive_time": "09:40",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6651",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "09:50",
+        "arrive_time": "12:00",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3846",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "11:50",
+        "arrive_time": "15:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "首都航空",
+        "airline_code": "JD5705",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "14:05",
+        "arrive_time": "16:25",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7293",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "14:55",
+        "arrive_time": "17:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3342",
+        "start_drome": "海口美兰国际机场",
+        "arrive_drome": "武汉天河国际机场",
+        "start_time": "18:45",
+        "arrive_time": "22:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "12346日"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9629",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "07:25",
+        "arrive_time": "09:15",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4360",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "07:50",
+        "arrive_time": "09:25",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3411",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "08:35",
+        "arrive_time": "10:20",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3662",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "10:20",
+        "arrive_time": "11:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7271",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "11:55",
+        "arrive_time": "13:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3421",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "12:10",
+        "arrive_time": "13:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3692",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "15:15",
+        "arrive_time": "16:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9653",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "18:00",
+        "arrive_time": "19:40",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3594",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "18:00",
+        "arrive_time": "19:40",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7171",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "19:15",
+        "arrive_time": "20:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7171",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "19:15",
+        "arrive_time": "20:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6296",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "20:25",
+        "arrive_time": "22:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3082",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "20:50",
+        "arrive_time": "22:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

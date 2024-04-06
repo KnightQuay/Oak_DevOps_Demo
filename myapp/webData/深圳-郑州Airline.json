@@ -1,0 +1,189 @@
+[
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9845",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "07:35",
+        "arrive_time": "10:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3477",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "07:35",
+        "arrive_time": "10:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6236",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "09:15",
+        "arrive_time": "11:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1962",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "09:15",
+        "arrive_time": "11:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3976",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "11:20",
+        "arrive_time": "13:35",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1828",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "11:20",
+        "arrive_time": "13:35",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9807",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "12:35",
+        "arrive_time": "15:20",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3557",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "12:35",
+        "arrive_time": "15:20",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6336",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "13:55",
+        "arrive_time": "16:10",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4048",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "13:55",
+        "arrive_time": "16:10",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9329",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "17:00",
+        "arrive_time": "19:20",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3555",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "17:00",
+        "arrive_time": "19:20",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7755",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "17:45",
+        "arrive_time": "20:00",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9949",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "21:15",
+        "arrive_time": "23:40",
+        "mode": "739",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3561",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "21:15",
+        "arrive_time": "23:40",
+        "mode": "739",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3974",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "21:25",
+        "arrive_time": "23:50",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1826",
+        "start_drome": "深圳宝安国际机场",
+        "arrive_drome": "郑州新郑国际机场",
+        "start_time": "21:25",
+        "arrive_time": "23:50",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

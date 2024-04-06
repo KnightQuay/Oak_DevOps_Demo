@@ -1,0 +1,167 @@
+[
+    {
+        "company": "西部航空",
+        "airline_code": "PN6259",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "07:25",
+        "arrive_time": "08:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8907",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "07:45",
+        "arrive_time": "08:55",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "河北航空",
+        "airline_code": "NS8470",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "08:50",
+        "arrive_time": "09:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5360",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "08:50",
+        "arrive_time": "09:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8470",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "08:50",
+        "arrive_time": "09:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "河北航空",
+        "airline_code": "NS8488",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "11:45",
+        "arrive_time": "12:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5378",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "11:45",
+        "arrive_time": "12:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8488",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "11:45",
+        "arrive_time": "12:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8951",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "14:00",
+        "arrive_time": "15:10",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "奥凯航空",
+        "airline_code": "BK2738",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "14:25",
+        "arrive_time": "15:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "奥凯航空",
+        "airline_code": "BK2738",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "14:25",
+        "arrive_time": "15:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "6"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7358",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "15:45",
+        "arrive_time": "16:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3350",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "17:10",
+        "arrive_time": "18:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1234",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "17:10",
+        "arrive_time": "18:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "西部航空",
+        "airline_code": "PN6231",
+        "start_drome": "重庆江北国际机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "17:35",
+        "arrive_time": "18:45",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

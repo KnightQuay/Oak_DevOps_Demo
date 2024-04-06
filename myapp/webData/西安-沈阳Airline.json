@@ -1,0 +1,123 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6402",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "10:15",
+        "arrive_time": "12:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4104",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "10:15",
+        "arrive_time": "12:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6470",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "12:40",
+        "arrive_time": "16:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4158",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "12:40",
+        "arrive_time": "16:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2263",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "13:35",
+        "arrive_time": "16:00",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "幸福航空",
+        "airline_code": "JR2263",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "13:35",
+        "arrive_time": "16:00",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7875",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "14:45",
+        "arrive_time": "18:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9448",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "19:35",
+        "arrive_time": "21:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3358",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "19:35",
+        "arrive_time": "21:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6516",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "21:25",
+        "arrive_time": "00:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4186",
+        "start_drome": "西安咸阳国际机场",
+        "arrive_drome": "沈阳桃仙国际机场",
+        "start_time": "21:25",
+        "arrive_time": "00:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

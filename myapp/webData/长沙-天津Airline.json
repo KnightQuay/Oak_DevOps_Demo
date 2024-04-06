@@ -1,0 +1,35 @@
+[
+    {
+        "company": "奥凯航空",
+        "airline_code": "BK2849",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "08:20",
+        "arrive_time": "10:15",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "6"
+    },
+    {
+        "company": "奥凯航空",
+        "airline_code": "BK2736",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "11:50",
+        "arrive_time": "14:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "6"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1468",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "20:00",
+        "arrive_time": "22:00",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    }
+]

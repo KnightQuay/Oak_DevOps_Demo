@@ -1,0 +1,13 @@
+[
+    {
+        "company": "海南航空",
+        "airline_code": "HU7791",
+        "start_drome": "兰州中川机场",
+        "arrive_drome": "合肥新桥国际机场",
+        "start_time": "14:10",
+        "arrive_time": "16:15",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "6"
+    }
+]

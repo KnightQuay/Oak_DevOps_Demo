@@ -1,0 +1,222 @@
+[
+    {
+        "company": "东方航空",
+        "airline_code": "MU5774",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "06:30",
+        "arrive_time": "09:05",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "昆明航空",
+        "airline_code": "KY8286",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "06:50",
+        "arrive_time": "09:15",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5740",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "07:20",
+        "arrive_time": "09:55",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3481",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "07:20",
+        "arrive_time": "09:55",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3409",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "08:25",
+        "arrive_time": "10:45",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5732",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "10:55",
+        "arrive_time": "13:20",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3487",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "11:35",
+        "arrive_time": "13:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1367",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "11:35",
+        "arrive_time": "13:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5776",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "12:05",
+        "arrive_time": "14:30",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9633",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "13:30",
+        "arrive_time": "16:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "26"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3407",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "13:45",
+        "arrive_time": "16:15",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5742",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "16:15",
+        "arrive_time": "18:35",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU3538",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "16:40",
+        "arrive_time": "19:00",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3449",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "16:40",
+        "arrive_time": "19:00",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1329",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "16:40",
+        "arrive_time": "19:00",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5738",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "18:50",
+        "arrive_time": "21:20",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9645",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "18:55",
+        "arrive_time": "21:30",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9623",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "20:05",
+        "arrive_time": "22:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3419",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "21:20",
+        "arrive_time": "23:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5772",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "22:10",
+        "arrive_time": "00:35",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

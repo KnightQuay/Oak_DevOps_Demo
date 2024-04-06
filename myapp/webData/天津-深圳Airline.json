@@ -1,0 +1,134 @@
+[
+    {
+        "company": "奥凯航空",
+        "airline_code": "BK2777",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "08:25",
+        "arrive_time": "11:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1371",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "08:55",
+        "arrive_time": "11:55",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "13456"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1371",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "08:55",
+        "arrive_time": "11:55",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "13456"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9784",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "12:15",
+        "arrive_time": "15:15",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3654",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "12:15",
+        "arrive_time": "15:15",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1319",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "14:45",
+        "arrive_time": "17:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1319",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "14:45",
+        "arrive_time": "17:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "河北航空",
+        "airline_code": "NS8379",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "18:45",
+        "arrive_time": "21:40",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5281",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "18:45",
+        "arrive_time": "21:40",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8379",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "18:45",
+        "arrive_time": "21:40",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9936",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "19:10",
+        "arrive_time": "22:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3812",
+        "start_drome": "天津滨海国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "19:10",
+        "arrive_time": "22:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

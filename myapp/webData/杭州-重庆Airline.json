@@ -1,0 +1,189 @@
+[
+    {
+        "company": "海南航空",
+        "airline_code": "HU7133",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "07:25",
+        "arrive_time": "09:40",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1759",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "07:35",
+        "arrive_time": "09:45",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8821",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "08:20",
+        "arrive_time": "10:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8407",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "08:25",
+        "arrive_time": "11:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4554",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "10:40",
+        "arrive_time": "13:00",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ8180",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "11:05",
+        "arrive_time": "13:15",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "华夏航空",
+        "airline_code": "G52696",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "12:15",
+        "arrive_time": "15:45",
+        "mode": "CR9",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC1761",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "15:10",
+        "arrive_time": "17:30",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1761",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "15:10",
+        "arrive_time": "17:30",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1761",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "15:10",
+        "arrive_time": "17:30",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ8190",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "16:05",
+        "arrive_time": "18:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "重庆航空",
+        "airline_code": "OQ2390",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "16:05",
+        "arrive_time": "18:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5307",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "17:45",
+        "arrive_time": "19:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8415",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "17:45",
+        "arrive_time": "19:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5367",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "21:05",
+        "arrive_time": "23:15",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8477",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "21:05",
+        "arrive_time": "23:15",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8936",
+        "start_drome": "杭州萧山国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "22:10",
+        "arrive_time": "00:25",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

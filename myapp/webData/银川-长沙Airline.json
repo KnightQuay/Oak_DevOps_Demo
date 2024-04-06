@@ -1,0 +1,24 @@
+[
+    {
+        "company": "东方航空",
+        "airline_code": "MU2265",
+        "start_drome": "银川河东机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "13:10",
+        "arrive_time": "17:00",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "幸福航空",
+        "airline_code": "JR2265",
+        "start_drome": "银川河东机场",
+        "arrive_drome": "长沙黄花国际机场",
+        "start_time": "13:10",
+        "arrive_time": "17:00",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

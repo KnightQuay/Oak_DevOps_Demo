@@ -1,0 +1,90 @@
+[
+    {
+        "company": "中国国航",
+        "airline_code": "CA4439",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "07:40",
+        "arrive_time": "08:50",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3768",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "13:20",
+        "arrive_time": "14:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "成都航空",
+        "airline_code": "EU2731",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "14:30",
+        "arrive_time": "15:40",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4435",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "15:35",
+        "arrive_time": "16:40",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3694",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "18:20",
+        "arrive_time": "19:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "西藏航空",
+        "airline_code": "TV9825",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "20:30",
+        "arrive_time": "21:40",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3987",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "20:30",
+        "arrive_time": "21:40",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3672",
+        "start_drome": "成都双流国际机场",
+        "arrive_drome": "贵阳龙洞堡国际机场",
+        "start_time": "22:35",
+        "arrive_time": "23:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

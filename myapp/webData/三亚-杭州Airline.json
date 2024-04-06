@@ -1,0 +1,123 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6629",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "09:30",
+        "arrive_time": "12:10",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4277",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "09:30",
+        "arrive_time": "12:10",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "河北航空",
+        "airline_code": "NS3302",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "15:05",
+        "arrive_time": "17:45",
+        "mode": "190",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF7014",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "15:05",
+        "arrive_time": "17:45",
+        "mode": "190",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "首都航空",
+        "airline_code": "JD5163",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "15:20",
+        "arrive_time": "17:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "成都航空",
+        "airline_code": "EU2740",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "16:20",
+        "arrive_time": "19:00",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6484",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "18:25",
+        "arrive_time": "21:15",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4164",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "18:25",
+        "arrive_time": "21:15",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5258",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "19:50",
+        "arrive_time": "22:35",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8352",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "19:50",
+        "arrive_time": "22:35",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7823",
+        "start_drome": "三亚凤凰国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "20:55",
+        "arrive_time": "23:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

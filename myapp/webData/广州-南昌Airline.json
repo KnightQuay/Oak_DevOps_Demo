@@ -1,0 +1,123 @@
+[
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9667",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "07:15",
+        "arrive_time": "08:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7343",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "07:55",
+        "arrive_time": "09:20",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3539",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "08:00",
+        "arrive_time": "09:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3535",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "11:05",
+        "arrive_time": "12:30",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5256",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "11:30",
+        "arrive_time": "12:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU3574",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "15:55",
+        "arrive_time": "17:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3625",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "15:55",
+        "arrive_time": "17:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1509",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "15:55",
+        "arrive_time": "17:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3545",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "20:05",
+        "arrive_time": "21:30",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9711",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "20:15",
+        "arrive_time": "21:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5232",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "21:20",
+        "arrive_time": "22:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

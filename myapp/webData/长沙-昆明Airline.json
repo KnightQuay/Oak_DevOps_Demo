@@ -1,0 +1,200 @@
+[
+    {
+        "company": "奥凯航空",
+        "airline_code": "BK2797",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "07:30",
+        "arrive_time": "09:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2705",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "09:55",
+        "arrive_time": "11:45",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5756",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "10:45",
+        "arrive_time": "12:40",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "昆明航空",
+        "airline_code": "KY8280",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "10:55",
+        "arrive_time": "12:50",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC1467",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "13:55",
+        "arrive_time": "15:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "46"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1467",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "13:55",
+        "arrive_time": "15:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "46"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1467",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "13:55",
+        "arrive_time": "15:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6427",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "14:50",
+        "arrive_time": "17:00",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "祥鹏航空",
+        "airline_code": "8L9880",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "14:55",
+        "arrive_time": "16:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "46日"
+    },
+    {
+        "company": "昆明航空",
+        "airline_code": "KY9255",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "15:15",
+        "arrive_time": "17:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9255",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "15:15",
+        "arrive_time": "17:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3799",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "15:15",
+        "arrive_time": "17:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU2715",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "15:45",
+        "arrive_time": "17:40",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "昆明航空",
+        "airline_code": "KY8264",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "15:55",
+        "arrive_time": "18:05",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3467",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "18:30",
+        "arrive_time": "20:30",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1347",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "18:30",
+        "arrive_time": "20:30",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "昆明航空",
+        "airline_code": "KY8226",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "19:50",
+        "arrive_time": "21:50",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5750",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "昆明长水国际机场",
+        "start_time": "21:05",
+        "arrive_time": "22:55",
+        "mode": "733",
+        "airline_stop": "0",
+        "week": "246"
+    }
+]

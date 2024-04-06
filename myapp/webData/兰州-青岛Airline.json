@@ -1,0 +1,13 @@
+[
+    {
+        "company": "东方航空",
+        "airline_code": "MU2257",
+        "start_drome": "兰州中川机场",
+        "arrive_drome": "青岛流亭国际机场",
+        "start_time": "10:55",
+        "arrive_time": "15:10",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "246"
+    }
+]

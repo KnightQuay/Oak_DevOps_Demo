@@ -1,0 +1,156 @@
+[
+    {
+        "company": "山东航空",
+        "airline_code": "SC9601",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "07:55",
+        "arrive_time": "12:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9601",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "07:55",
+        "arrive_time": "12:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3375",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "07:55",
+        "arrive_time": "12:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC9515",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "11:10",
+        "arrive_time": "17:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9515",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "11:10",
+        "arrive_time": "17:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3463",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "11:10",
+        "arrive_time": "17:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5048",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "12:35",
+        "arrive_time": "17:10",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8074",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "12:35",
+        "arrive_time": "17:10",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7048",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "14:25",
+        "arrive_time": "17:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5044",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "16:00",
+        "arrive_time": "19:10",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8070",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "16:00",
+        "arrive_time": "19:10",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4972",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "19:20",
+        "arrive_time": "23:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH3036",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "19:20",
+        "arrive_time": "23:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4972",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "厦门高崎国际机场",
+        "start_time": "19:20",
+        "arrive_time": "23:45",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "246"
+    }
+]

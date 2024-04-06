@@ -1,0 +1,57 @@
+[
+    {
+        "company": "山东航空",
+        "airline_code": "SC4909",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "07:15",
+        "arrive_time": "09:00",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4909",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "07:15",
+        "arrive_time": "09:00",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC9668",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "12:40",
+        "arrive_time": "14:15",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9668",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "12:40",
+        "arrive_time": "14:15",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3585",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "南昌昌北国际机场",
+        "start_time": "12:40",
+        "arrive_time": "14:15",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

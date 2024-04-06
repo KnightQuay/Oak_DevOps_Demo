@@ -1,0 +1,178 @@
+[
+    {
+        "company": "山东航空",
+        "airline_code": "SC4773",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "08:00",
+        "arrive_time": "09:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4773",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "08:00",
+        "arrive_time": "09:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "长龙航空",
+        "airline_code": "GJ8736",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "09:20",
+        "arrive_time": "10:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "1246"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4775",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "10:35",
+        "arrive_time": "12:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "12456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4775",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "10:35",
+        "arrive_time": "12:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "12456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4645",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "14:00",
+        "arrive_time": "15:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "56"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4645",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "14:00",
+        "arrive_time": "15:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "56"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU5672",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "16:00",
+        "arrive_time": "17:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "东方航空",
+        "airline_code": "MU4037",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "18:05",
+        "arrive_time": "19:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "吉祥航空",
+        "airline_code": "HO1359",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "18:05",
+        "arrive_time": "19:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA5917",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "18:05",
+        "arrive_time": "19:35",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4683",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "20:00",
+        "arrive_time": "21:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4683",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "20:00",
+        "arrive_time": "21:30",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "首都航空",
+        "airline_code": "JD5752",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "20:40",
+        "arrive_time": "22:20",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5024",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "21:50",
+        "arrive_time": "23:25",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8048",
+        "start_drome": "青岛流亭国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "21:50",
+        "arrive_time": "23:25",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

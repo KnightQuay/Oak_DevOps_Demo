@@ -1,0 +1,13 @@
+[
+    {
+        "company": "东方航空",
+        "airline_code": "MU2422",
+        "start_drome": "昆明长水国际机场",
+        "arrive_drome": "南充高坪机场",
+        "start_time": "13:50",
+        "arrive_time": "15:00",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "246"
+    }
+]

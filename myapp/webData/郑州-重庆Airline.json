@@ -1,0 +1,90 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3475",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "08:00",
+        "arrive_time": "09:40",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "四川航空",
+        "airline_code": "3U8510",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "11:35",
+        "arrive_time": "13:05",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3479",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "14:10",
+        "arrive_time": "15:40",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1359",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "14:10",
+        "arrive_time": "15:40",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "246"
+    },
+    {
+        "company": "西部航空",
+        "airline_code": "PN6274",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "18:15",
+        "arrive_time": "19:45",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3641",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "19:30",
+        "arrive_time": "21:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4795",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "20:15",
+        "arrive_time": "21:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "1246"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9150",
+        "start_drome": "郑州新郑国际机场",
+        "arrive_drome": "重庆江北国际机场",
+        "start_time": "21:20",
+        "arrive_time": "22:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

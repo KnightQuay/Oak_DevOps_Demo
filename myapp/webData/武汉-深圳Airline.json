@@ -1,0 +1,145 @@
+[
+    {
+        "company": "东方航空",
+        "airline_code": "MU2477",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "08:05",
+        "arrive_time": "09:45",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "16日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ9054",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "08:05",
+        "arrive_time": "09:45",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "16日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC8233",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "08:25",
+        "arrive_time": "10:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH4951",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "08:25",
+        "arrive_time": "10:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA8233",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "08:25",
+        "arrive_time": "10:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3355",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "15:55",
+        "arrive_time": "17:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1237",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "15:55",
+        "arrive_time": "17:35",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH9854",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "16:10",
+        "arrive_time": "17:50",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA3353",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "16:10",
+        "arrive_time": "17:50",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6303",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "17:20",
+        "arrive_time": "19:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4015",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "17:20",
+        "arrive_time": "19:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3912",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "21:25",
+        "arrive_time": "23:10",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "1356日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF1768",
+        "start_drome": "武汉天河国际机场",
+        "arrive_drome": "深圳宝安国际机场",
+        "start_time": "21:25",
+        "arrive_time": "23:10",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "1356日"
+    }
+]

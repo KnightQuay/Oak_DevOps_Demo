@@ -1,0 +1,167 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6579",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "07:55",
+        "arrive_time": "08:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4239",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "07:55",
+        "arrive_time": "08:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU6502",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "10:05",
+        "arrive_time": "10:55",
+        "mode": "E90",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS6502",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "10:05",
+        "arrive_time": "10:55",
+        "mode": "E90",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "祥鹏航空",
+        "airline_code": "8L9982",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "14:30",
+        "arrive_time": "15:25",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "13456日"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS6508",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "15:30",
+        "arrive_time": "16:25",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "136日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU6506",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "16:50",
+        "arrive_time": "17:40",
+        "mode": "190",
+        "airline_stop": "0",
+        "week": "123456"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS6506",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "16:50",
+        "arrive_time": "17:40",
+        "mode": "190",
+        "airline_stop": "0",
+        "week": "123456"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA152",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "18:05",
+        "arrive_time": "19:00",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "136"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS6504",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "19:30",
+        "arrive_time": "20:25",
+        "mode": "190",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU6510",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "20:50",
+        "arrive_time": "21:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "1256日"
+    },
+    {
+        "company": "天津航空",
+        "airline_code": "GS6510",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "20:50",
+        "arrive_time": "21:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "1256日"
+    },
+    {
+        "company": "河北航空",
+        "airline_code": "NS8038",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "21:00",
+        "arrive_time": "21:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "23456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ5014",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "21:00",
+        "arrive_time": "21:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "23456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8038",
+        "start_drome": "大连周水子国际机场",
+        "arrive_drome": "天津滨海国际机场",
+        "start_time": "21:00",
+        "arrive_time": "21:55",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "23456日"
+    }
+]

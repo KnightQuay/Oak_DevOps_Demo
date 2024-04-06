@@ -1,0 +1,90 @@
+[
+    {
+        "company": "首都航空",
+        "airline_code": "JD5547",
+        "start_drome": "桂林两江国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "11:20",
+        "arrive_time": "13:10",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4952",
+        "start_drome": "桂林两江国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "12:55",
+        "arrive_time": "14:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "山东航空",
+        "airline_code": "SC4646",
+        "start_drome": "桂林两江国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "19:20",
+        "arrive_time": "21:00",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA4646",
+        "start_drome": "桂林两江国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "19:20",
+        "arrive_time": "21:00",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6363",
+        "start_drome": "桂林两江国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "19:25",
+        "arrive_time": "21:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "1246"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4073",
+        "start_drome": "桂林两江国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "19:25",
+        "arrive_time": "21:05",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "1246"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1798",
+        "start_drome": "桂林两江国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "21:15",
+        "arrive_time": "23:05",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "吉祥航空",
+        "airline_code": "HO1346",
+        "start_drome": "桂林两江国际机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "22:55",
+        "arrive_time": "00:50",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

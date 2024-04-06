@@ -1,0 +1,46 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3773",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "太原武宿国际机场",
+        "start_time": "10:40",
+        "arrive_time": "12:30",
+        "mode": "73G",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ3781",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "太原武宿国际机场",
+        "start_time": "16:25",
+        "arrive_time": "18:10",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8157",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "太原武宿国际机场",
+        "start_time": "17:15",
+        "arrive_time": "19:05",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7296",
+        "start_drome": "长沙黄花国际机场",
+        "arrive_drome": "太原武宿国际机场",
+        "start_time": "22:00",
+        "arrive_time": "23:50",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

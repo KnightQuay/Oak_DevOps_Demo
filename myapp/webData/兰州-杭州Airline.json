@@ -1,0 +1,46 @@
+[
+    {
+        "company": "厦门航空",
+        "airline_code": "MF8258",
+        "start_drome": "兰州中川机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "13:15",
+        "arrive_time": "17:30",
+        "mode": "737",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6951",
+        "start_drome": "兰州中川机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "13:50",
+        "arrive_time": "16:10",
+        "mode": "757",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "深圳航空",
+        "airline_code": "ZH1768",
+        "start_drome": "兰州中川机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "18:50",
+        "arrive_time": "21:15",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "中国国航",
+        "airline_code": "CA1768",
+        "start_drome": "兰州中川机场",
+        "arrive_drome": "杭州萧山国际机场",
+        "start_time": "18:50",
+        "arrive_time": "21:15",
+        "mode": "319",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

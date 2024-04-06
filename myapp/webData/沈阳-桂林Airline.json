@@ -1,0 +1,35 @@
+[
+    {
+        "company": "春秋航空",
+        "airline_code": "9C8581",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "桂林两江国际机场",
+        "start_time": "13:40",
+        "arrive_time": "18:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "1346"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6362",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "桂林两江国际机场",
+        "start_time": "14:30",
+        "arrive_time": "17:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4072",
+        "start_drome": "沈阳桃仙国际机场",
+        "arrive_drome": "桂林两江国际机场",
+        "start_time": "14:30",
+        "arrive_time": "17:55",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    }
+]

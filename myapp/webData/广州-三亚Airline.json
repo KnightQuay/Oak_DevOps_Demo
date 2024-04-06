@@ -1,0 +1,167 @@
+[
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6748",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "06:45",
+        "arrive_time": "08:20",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6742",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "09:25",
+        "arrive_time": "11:00",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4380",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "09:25",
+        "arrive_time": "11:00",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6746",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "11:35",
+        "arrive_time": "13:00",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6738",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "13:40",
+        "arrive_time": "15:05",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6730",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "14:50",
+        "arrive_time": "16:15",
+        "mode": "321",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6732",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "15:40",
+        "arrive_time": "17:10",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4372",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "15:40",
+        "arrive_time": "17:10",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6750",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "19:30",
+        "arrive_time": "21:00",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6736",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "20:30",
+        "arrive_time": "21:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4376",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "20:30",
+        "arrive_time": "21:55",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "海南航空",
+        "airline_code": "HU7022",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "21:05",
+        "arrive_time": "22:25",
+        "mode": "738",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "南方航空",
+        "airline_code": "CZ6734",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "22:50",
+        "arrive_time": "00:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "厦门航空",
+        "airline_code": "MF4374",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "22:50",
+        "arrive_time": "00:20",
+        "mode": "320",
+        "airline_stop": "0",
+        "week": "123456日"
+    },
+    {
+        "company": "首都航空",
+        "airline_code": "JD5167",
+        "start_drome": "广州新白云国际机场",
+        "arrive_drome": "三亚凤凰国际机场",
+        "start_time": "23:05",
+        "arrive_time": "00:25",
+        "mode": "JET",
+        "airline_stop": "0",
+        "week": "23456日"
+    }
+]
