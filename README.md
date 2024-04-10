@@ -1,2 +1,2 @@
 # Oak_DevOps_Demo
-this is a respiratory for Oak's app **吟游Map**
+this is a demo respiratory for Oak's app **吟游Map**
